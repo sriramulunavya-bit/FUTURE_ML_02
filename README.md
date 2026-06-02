@@ -101,4 +101,4 @@ jupyter notebook customer_support_ticket.ipynb
 
 ## Author
 
-Developed as part of a Machine Learning project on Customer Support Ticket Classification.
+SRIRAMULU NAVYA SREE
